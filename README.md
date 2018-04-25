@@ -38,4 +38,4 @@ Example coupon:
 Get this working for the first movie, and then do the same thing for the next four movies. You can copy and paste your code and tweak the title/sales for the other movies.
 
 ## Bonus Challenge
-Modify the code to obtain the movie titles, their sales and if the user wants to watch each movie from three text files. Each text file will have five rows, one per movie title.
+Modify the code to obtain the movie titles, their sales and if the user wants to watch each movie from three text files. Each text file will have five rows, one per movie title. You need to convert the sales numbers (which will be in a string array) into integer variables to complete this task. Example code for converting a string to an integer is given in the str2int demo code.

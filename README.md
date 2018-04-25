@@ -1,4 +1,7 @@
 # Processing Assignment 5: Movie Sales
+
+**[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
+
 In this assignment you will create a program that will be presenting information to the user about various blockbuster movies and then take user input on whether the user is interested in watching the movie or not. Identify five movies and their sales ($). You can find this information at various web sites, e.g. https://en.wikipedia.org/wiki/List_of_highest-grossing_films . 
 
 ## Set up

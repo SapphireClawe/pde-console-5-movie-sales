@@ -11,6 +11,9 @@ void setup() {
   int movie1Sales = 23178597;
   String movie2Title = "Solo: A Star Wars Story";
   int movie2Sales = 29396882;
+  String movie3Title = "Adrift";
+  int movie3Sales = 11603039;
+  
 }
 
 void draw() {

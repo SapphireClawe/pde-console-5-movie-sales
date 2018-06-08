@@ -17,6 +17,9 @@ void setup() {
   int movie4Sales = 10507279;
   String movie5Title = "Book Club";
   int movie5Sales = 7039033;
+  
+  
+  println(movie1Title);
 }
 
 void draw() {

@@ -20,6 +20,11 @@ void setup() {
   
   
   println(movie1Title);
+    if (movie1Sales > 1000000) {
+      print("Yes");
+    } else {
+          print("No");
+    }
 }
 
 void draw() {

@@ -26,9 +26,15 @@ void setup() {
           println("No");
     }
     
-    
   println(movie2Title);
     if (movie2Sales > 10000000) {
+      println("Yes");
+    } else {
+          println("No");
+    }
+    
+  println(movie3Title);
+    if (movie3Sales > 10000000) {
       println("Yes");
     } else {
           println("No");

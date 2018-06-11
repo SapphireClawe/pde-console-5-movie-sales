@@ -40,6 +40,7 @@ void setup() {
   println(movie3Title);
     if (movie3Sales > 10000000) {
       println("Yes");
+      println("9:30 am, 12:30 pm, 3:30 pm, 6:30 pm");
     } else {
       println("No");
       println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");

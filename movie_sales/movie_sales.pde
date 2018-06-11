@@ -46,6 +46,13 @@ void setup() {
     } else {
       println("No");
     }
+    
+  println(movie5Title);
+    if (movie5Sales > 10000000) {
+      println("Yes"); 
+    } else {
+      println("No");
+    }
 }
 
 void draw() {

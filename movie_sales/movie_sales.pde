@@ -24,6 +24,7 @@ void setup() {
       println("Yes");
     } else {
       println("No");
+      println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");
     }
     
   println(movie2Title);
@@ -31,6 +32,7 @@ void setup() {
       println("Yes");
     } else {
       println("No");
+      println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");
     }
     
   println(movie3Title);
@@ -38,6 +40,7 @@ void setup() {
       println("Yes");
     } else {
       println("No");
+      println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");
     }
     
   println(movie4Title);
@@ -45,6 +48,7 @@ void setup() {
       println("Yes");
     } else {
       println("No");
+      println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");
     }
     
   println(movie5Title);
@@ -52,6 +56,7 @@ void setup() {
       println("Yes"); 
     } else {
       println("No");
+      println("Enjoy a MEGA COMBO (Large pop, Large popcorn, MEGA DOG) for only $10.75 (reg price $15.99)");
     }
 }
 

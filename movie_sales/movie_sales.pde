@@ -24,16 +24,13 @@ void setup() {
   int D = 3;
   int E = 4;
   
-  String lines [] = loadStrings("reviews.txt");
-    if (= "Yes") {
-      println("9:00, 12:00, 3:00, 6:00, 9:00");
-    } else {
-      println("Enjoy a MEGA Combo for only $7.95! Each combo comes with a MEGA Slurp pop, POPPERIFIC popcorn, and a main of 1 MEGA Dog or ULTRA Nachos! (Reg. price 12.60");
-    }
+  String lines[] = loadStrings("reviews.txt");
+
   
   println(movie1Title, lines[A]);
     if (movie1Sales > 10000000) {
       println("EPIC FILM!");
+      println("9:00, 12:00, 3:00, 6:00, 9:00");
     } else {
       println("Not that good.");
     }
@@ -43,11 +40,13 @@ void setup() {
       println("EPIC FILM!");
     } else {
       println("Not that good.");
+      println("Enjoy a MEGA Combo for only $7.95! Each combo comes with a MEGA Slurp pop, POPPERIFIC popcorn, and a main of 1 MEGA Dog or ULTRA Nachos! (Reg. price 12.60");
     }
     
   println(movie3Title, lines[C]);
     if (movie3Sales > 10000000) {
       println("EPIC FILM!");
+      println("9:00, 12:00, 3:00, 6:00, 9:00");
     } else {
       println("Not that good.");
     }
@@ -55,6 +54,7 @@ void setup() {
   println(movie4Title, lines[D]);
     if (movie4Sales > 10000000) {
       println("EPIC FILM!");
+      println("9:00, 12:00, 3:00, 6:00, 9:00");
     } else {
       println("Not that good.");
     }
@@ -64,6 +64,7 @@ void setup() {
       println("EPIC FILM!"); 
     } else {
       println("Not that good.");
+      println("Enjoy a MEGA Combo for only $7.95! Each combo comes with a MEGA Slurp pop, POPPERIFIC popcorn, and a main of 1 MEGA Dog or ULTRA Nachos! (Reg. price 12.60");
     }
 }
 

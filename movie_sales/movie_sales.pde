@@ -24,7 +24,7 @@ void setup() {
   int D = 3;
   int E = 4;
   
-  String lines [] = loadStrings("review.txt");
+  String lines [] = loadStrings("reviews.txt");
   
   println(movie1Title, lines[A]);
     if (movie1Sales > 10000000) {

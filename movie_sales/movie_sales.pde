@@ -38,17 +38,17 @@ void setup() {
   println(movie2Title, lines[B]);
     if (movie2Sales > 10000000) {
       println("EPIC FILM!");
+      println("9:00, 12:00, 3:00, 6:00, 9:00");
     } else {
-      println("Not that good.");
-      println("Enjoy a MEGA Combo for only $7.95! Each combo comes with a MEGA Slurp pop, POPPERIFIC popcorn, and a main of 1 MEGA Dog or ULTRA Nachos! (Reg. price 12.60)");
+      println("Not that good."); 
     }
     
   println(movie3Title, lines[C]);
     if (movie3Sales > 10000000) {
-      println("EPIC FILM!");
-      println("9:00, 12:00, 3:00, 6:00, 9:00");
+      println("EPIC FILM!");     
     } else {
       println("Not that good.");
+      println("Enjoy a MEGA Combo for only $7.95! Each combo comes with a MEGA Slurp pop, POPPERIFIC popcorn, and a main of 1 MEGA Dog or ULTRA Nachos! (Reg. price 12.60)");
     }
     
   println(movie4Title, lines[D]);
